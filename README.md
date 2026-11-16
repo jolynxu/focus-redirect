@@ -1,6 +1,6 @@
-# Focus Redirect
+# extension to help study
 
-A browser extension that sends you back to your work pages when you wander onto distracting sites.
+midterms season has been terrible. stops you from opening distracting sites.
 
 ## Features
 
